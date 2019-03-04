@@ -1,0 +1,10 @@
+{
+  "name": "top-scores",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.1.0",
+    "jest-spec-reporter": "^1.0.5"
+  }
+}
